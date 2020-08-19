@@ -22,4 +22,3 @@ class minecraft {
     enable => true,
   }
 }
-
